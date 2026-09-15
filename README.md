@@ -1,4 +1,4 @@
-# SpaceX Falcon 9 First Stage Landing Prediction 🚀
+# SpaceX Falcon 9 First Stage Landing Prediction
 
 ## Deskripsi Singkat
 Proyek *Capstone Data Science* ini bertujuan untuk membangun model klasifikasi *machine learning* guna memprediksi keberhasilan pendaratan roket Falcon 9 tahap pertama (*first stage*) dari SpaceX. Prediksi keberhasilan pendaratan roket ini sangat penting untuk membantu memperkirakan biaya misi peluncuran ruang angkasa. 
